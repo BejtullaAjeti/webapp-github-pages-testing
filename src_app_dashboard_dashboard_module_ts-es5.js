@@ -916,118 +916,244 @@
       });
 
       var _HOME_MESSAGES = [{
-        title: 'Maria',
-        content: 'Hei, hva skjer?',
+        title: 'Ela',
+        content: 'Hey, what are you up to?',
         color: '#58E5C4',
         isQuestion: false,
         isVisible: false
       }, {
-        title: 'Alex',
-        content: 'Hei',
+        title: 'Adam',
+        content: 'Just exploring Moonlight, this app is insane!',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Alex',
-        content: 'Hvor er du?',
+        title: 'Ela',
+        content: 'Moonlight? What’s that?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'It’s where creators bring stories to life and readers become part of them. The most immersive storytelling app ever.',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'På McDonalds med min lille søster! 😐',
+        title: 'Ela',
+        content: 'Sounds cool! But what makes it different?',
         color: '#58E5C4',
         isQuestion: false,
         isVisible: false
       }, {
-        title: 'Alex',
-        content: 'Å, så kjipt for deg 😂',
+        title: 'Adam',
+        content: 'Interactive content, incredible creator tools, and even stats showing what readers choose in your stories. Oh, and it’s fast—native apps, no lag!',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Lol',
+        title: 'Ela',
+        content: 'Wow, can creators make money too?',
         color: '#58E5C4',
         isQuestion: false,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Jeg Hater dette stedet, for å være ærlig! Det er litt skummelt her.',
-        color: '#58E5C4',
-        isQuestion: false,
-        isVisible: false
-      }, {
-        title: 'Alex',
-        content: 'Maria, du er 16, og du er redd for en jævla fast food restaurant?',
+        title: 'Adam',
+        content: 'Absolutely! Creators earn $ML tokens for their content—direct tips, premium purchases, you name it. NFTs? You can even mint parts of your story!',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Vel ja, har du hørt om Ronald McDonald? Han kommer hit hver torsdag.',
+        title: 'Ela',
+        content: 'NFTs for content?! That’s next-level. Feels like creators’ turn, like designers with NFT art last year.',
         color: '#58E5C4',
         isQuestion: false,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Hvilken dag er det??',
-        color: '#58E5C4',
-        isQuestion: false,
-        isVisible: false
-      }, {
-        title: 'Alex',
-        content: 'Torsdag den 26. Hvordan det?',
+        title: 'Adam',
+        content: 'Exactly! Moonlight is like the future of storytelling—high-tech, creator-first, and powered by AI tools for writing. Our team has already built apps for millions of users!',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Torsag?',
+        title: 'Ela',
+        content: 'AI? Tell me more!',
         color: '#58E5C4',
         isQuestion: false,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Ronald McDonald!!?',
-        color: '#58E5C4',
-        isQuestion: false,
-        isVisible: false
-      }, {
-        title: 'Alex',
-        content: '😟',
+        title: 'Adam',
+        content: 'There’s a custom LLM behind it. It helps with tone adjustments, story generation, even fixing grammar. And it’s super easy to use.',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Alex',
-        content: 'Lykke til 😂',
+        title: 'Ela',
+        content: 'What about stats? Can creators see how their content performs?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Oh, 100%. You get deep stats—how people interact with your content, what choices they made, and where they spent the most time. It’s perfect for improving and understanding your audience.',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Alex, hold kjeft! 😂',
+        title: 'Ela',
+        content: 'This feels like such a game-changer. Anything else cool I should know?',
         color: '#58E5C4',
         isQuestion: false,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Vent, jeg må gå på do',
-        color: '#58E5C4',
-        isQuestion: false,
-        isVisible: false
-      }, {
-        title: 'Alex',
-        content: 'Vent, hva med søsteren din!',
+        title: 'Adam',
+        content: 'Yeah, it’s fast—apps are native and crazy smooth. The team behind Moonlight knows their stuff. They’ve shipped apps for millions before.',
         color: '#F9E3A7',
         isQuestion: true,
         isVisible: false
       }, {
-        title: 'Maria',
-        content: 'Det kommer til å gå bra, skal bare være borte i ca. 3 minutter',
+        title: 'Ela',
+        content: 'Is Moonlight out now? I need this.',
         color: '#58E5C4',
         isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'It’s in beta, but already has over 1k users! And the public launch is coming soon, so stay tuned!',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'This sounds amazing. I’m all in!',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Trust me, you’ll love it. Moonlight is changing the game for creators and readers alike.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'Okay, so tell me more about this $ML token. What’s the plan?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: '$ML has a 1 billion total supply, and it’s all about rewarding creators, engaging the community, and supporting Moonlight’s growth.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'How’s it all distributed? Is it fair?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Totally. 25% for community rewards, 32.5% for liquidity, 7.5% for public sale, 5.5% for ecosystem growth, and the rest for development, team, and treasury.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'Interesting! So it’s not just a money grab, right?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Nope! It’s about empowering creators and building something sustainable. Community rewards alone will be distributed over 20 years to keep the ecosystem strong.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'What’s the use for $ML? Why would people need it?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Loads of uses—tipping creators, buying premium content, governance voting, holding contests, and even accessing special features on Moonlight.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'And what’s the public sale about? Can anyone join?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Yep, the public sale is for everyone. It’s 7.5% of the total supply, and 25% is unlocked immediately at the Token Generation Event (TGE). The rest unlocks over 6 months.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'What’s a TGE?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'It’s the Token Generation Event, basically when $ML goes live, and people can start buying, earning, and trading it.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'How’s Moonlight planning to grow? What’s next?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'We’re following a clear roadmap—MVP launched, AI tools integrated, beta testing with 1K+ users, and next, we’re launching 1.0 with blockchain integration and $ML token!',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'What comes after 1.0?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Big things! Staking $ML, expanding globally, creating a DAO for decentralized governance, and constant feature upgrades based on user feedback.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'A DAO? So $ML holders get a say?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Exactly. If you hold $ML, you can vote on important decisions—like what features to build next or how funds should be used.',
+        color: '#F9E3A7',
+        isQuestion: true,
+        isVisible: false
+      }, {
+        title: 'Ela',
+        content: 'I can’t wait for the launch. How do I get started?',
+        color: '#58E5C4',
+        isQuestion: false,
+        isVisible: false
+      }, {
+        title: 'Adam',
+        content: 'Sign up now to secure your spot! And don’t forget to follow the journey—we’re just getting started.',
+        color: '#F9E3A7',
+        isQuestion: true,
         isVisible: false
       }];
       /***/
@@ -3337,7 +3463,7 @@
 
     /***/
     82294: function _(module) {
-      module.exports = ".home-container .no-scale {\n  transform: scale(1, 0);\n  transition: 0.8s;\n  transform-origin: bottom;\n}\n.home-container .scale {\n  transform: scale(1, 1);\n  transition: 0.5s;\n  transform-origin: bottom;\n}\n.home-container .message-box-modal {\n  display: none;\n  position: absolute;\n  background-image: url('main-background.svg');\n  z-index: 2;\n  left: 0;\n  top: 0;\n  bottom: 0;\n  right: 0;\n}\n.home-container .message-box-modal img {\n  position: absolute;\n  bottom: 30px;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n.home-container .hide {\n  transform: scale(1, 0);\n  transition: 0.8s;\n  transform-origin: top;\n}\n.home-container .show {\n  transform: scale(1, 1);\n  transition: 0.5s;\n  transform-origin: top;\n}\n.home-container .message-box-content {\n  top: 50%;\n  left: 50%;\n  text-align: center;\n  transform: translate(-50%, -50%);\n  position: absolute;\n  width: 100%;\n  max-width: 1200px;\n}\n.home-container .message-box-content p {\n  color: white;\n  font-size: 45px;\n}\n.home-container .message-box-content .angle-top {\n  margin-top: 30px;\n}\n.home-container .message-box-content .angle-top i {\n  font-size: 12px;\n  color: #12a5f4;\n}\n.home-container .message-box-content .back-button-text {\n  font-size: 15px;\n  margin-top: 10px;\n}\n.home-container .home-section {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: 100%;\n  max-width: 800px;\n  height: 650px;\n  background: url('phone.svg') no-repeat left;\n  background-size: 900px;\n  background-position: 0 -20%;\n  padding-left: 335px;\n  background-position-x: -240px;\n}\n.home-container .home-section .section-title {\n  font-size: 80px;\n  margin: 130px 0 0;\n  color: #ffffff;\n}\n.home-container .angle {\n  position: absolute;\n  bottom: 20px;\n  left: 0;\n  right: 0;\n  margin: 0 auto;\n  width: 100px;\n  font-size: 20px;\n}\n.home-container .angle img {\n  cursor: pointer;\n  height: 50px;\n  width: 50px;\n}\n.home-container .angle i {\n  cursor: pointer;\n}\n.home-container div.angle {\n  -webkit-animation: mover 1s infinite alternate;\n  animation: mover 1s infinite alternate;\n}\n.home-container div.angle {\n  -webkit-animation: mover 1s infinite alternate;\n  animation: mover 1s infinite alternate;\n}\n@-webkit-keyframes mover {\n  0% {\n    transform: translateY(0);\n  }\n  100% {\n    transform: translateY(-10px);\n  }\n}\n@keyframes mover {\n  0% {\n    transform: translateY(0);\n  }\n  100% {\n    transform: translateY(-10px);\n  }\n}\n.home-container .play-icon-container {\n  display: none;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  cursor: pointer;\n  height: 77px;\n  width: 77px;\n  border-radius: 50%;\n  background-color: rgba(255, 255, 255, 0.5);\n  justify-content: center;\n  align-items: center;\n}\n.icon-googleplay:before {\n  color: white;\n}\n@media only screen and (max-width: 800px) {\n  .home-container .angle {\n    display: none;\n  }\n  .home-container .home-section-message-box {\n    display: none;\n  }\n  .home-container .message-box-modal {\n    display: block;\n  }\n  .home-container .play-icon-container {\n    display: flex;\n  }\n  .home-container .home-section {\n    background-size: 1000px;\n    background-position: 43% 5%;\n    width: 100%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LnNjc3MiLCIuLi8uLi8uLi9hc3NldHMvc3R5bGVzL2hlbHBlcnMvX2NvbG9ycy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUdJO0VBQ0ksc0JBQUE7RUFDQSxnQkFBQTtFQUNBLHdCQUFBO0FBRlI7QUFLSTtFQUNJLHNCQUFBO0VBQ0EsZ0JBQUE7RUFDQSx3QkFBQTtBQUhSO0FBTUk7RUFDSSxhQUFBO0VBQ0Esa0JBQUE7RUFDQSw0Q0FBQTtFQUNBLFVBQUE7RUFDQSxPQUFBO0VBQ0EsTUFBQTtFQUNBLFNBQUE7RUFDQSxRQUFBO0FBSlI7QUFNUTtFQUNJLGtCQUFBO0VBQ0EsWUFBQTtFQUNBLFNBQUE7RUFDQSxnQ0FBQTtBQUpaO0FBVUk7RUFDSSxzQkFBQTtFQUNBLGdCQUFBO0VBQ0EscUJBQUE7QUFSUjtBQVdJO0VBQ0ksc0JBQUE7RUFDQSxnQkFBQTtFQUNBLHFCQUFBO0FBVFI7QUFZSTtFQUNJLFFBQUE7RUFDQSxTQUFBO0VBQ0Esa0JBQUE7RUFJQSxnQ0FBQTtFQUNBLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLGlCQUFBO0FBVlI7QUFZUTtFQUNJLFlBQUE7RUFDQSxlQUFBO0FBVlo7QUFhUTtFQUNJLGdCQUFBO0FBWFo7QUFhWTtFQUNJLGVBQUE7RUFDQSxjQUFBO0FBWGhCO0FBZVE7RUFDSSxlQUFBO0VBQ0EsZ0JBQUE7QUFiWjtBQWlCSTtFQUNJLGtCQUFBO0VBRUEsUUFBQTtFQUNBLFNBQUE7RUFJQSxnQ0FBQTtFQUNBLFdBQUE7RUFDQSxnQkFBQTtFQUNBLGFBQUE7RUFDQSwyQ0FBQTtFQUNBLHNCQUFBO0VBQ0EsMkJBQUE7RUFDQSxtQkFBQTtFQUNBLDZCQUFBO0FBaEJSO0FBa0JRO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0EsY0NuR0o7QURtRlI7QUFvQkk7RUFDSSxrQkFBQTtFQUNBLFlBQUE7RUFDQSxPQUFBO0VBQ0EsUUFBQTtFQUNBLGNBQUE7RUFDQSxZQUFBO0VBQ0EsZUFBQTtBQWxCUjtBQW9CUTtFQUNJLGVBQUE7RUFDQSxZQUFBO0VBQ0EsV0FBQTtBQWxCWjtBQXFCUTtFQUNJLGVBQUE7QUFuQlo7QUF1Qkk7RUFDSSw4Q0FBQTtFQUNBLHNDQUFBO0FBckJSO0FBd0JJO0VBQ0ksOENBQUE7RUFDQSxzQ0FBQTtBQXRCUjtBQXlCSTtFQUNJO0lBQ0ksd0JBQUE7RUF2QlY7RUF5Qk07SUFDSSw0QkFBQTtFQXZCVjtBQUNGO0FBeUJJO0VBQ0k7SUFDSSx3QkFBQTtFQXZCVjtFQXlCTTtJQUNJLDRCQUFBO0VBdkJWO0FBQ0Y7QUEwQkk7RUFDSSxhQUFBO0VBQ0Esa0JBQUE7RUFDQSxRQUFBO0VBQ0EsU0FBQTtFQUNBLGdDQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0VBQ0Esa0JBQUE7RUFDQSwwQ0FBQTtFQUNBLHVCQUFBO0VBQ0EsbUJBQUE7QUF4QlI7QUE0QkE7RUFDSSxZQUFBO0FBekJKO0FBNEJBO0VBR1E7SUFDSSxhQUFBO0VBM0JWO0VBOEJNO0lBQ0ksYUFBQTtFQTVCVjtFQStCTTtJQUNJLGNBQUE7RUE3QlY7RUFnQ007SUFDSSxhQUFBO0VBOUJWO0VBaUNNO0lBQ0ksdUJBQUE7SUFDQSwyQkFBQTtJQUNBLFdBQUE7RUEvQlY7QUFDRiIsImZpbGUiOiJob21lLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCBcIi4uLy4uLy4uL2Fzc2V0cy9zdHlsZXMvaGVscGVycy9jb2xvcnNcIjtcblxuLmhvbWUtY29udGFpbmVyIHtcbiAgICAubm8tc2NhbGUge1xuICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEsIDApO1xuICAgICAgICB0cmFuc2l0aW9uOiAuOHM7XG4gICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IGJvdHRvbTtcbiAgICB9XG5cbiAgICAuc2NhbGUge1xuICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEsIDEpO1xuICAgICAgICB0cmFuc2l0aW9uOiAuNXM7XG4gICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IGJvdHRvbTtcbiAgICB9XG5cbiAgICAubWVzc2FnZS1ib3gtbW9kYWwge1xuICAgICAgICBkaXNwbGF5OiBub25lO1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi4uLy4uLy4uL2Fzc2V0cy9pbWFnZXMvbWFpbi1iYWNrZ3JvdW5kLnN2Z1wiKTtcbiAgICAgICAgei1pbmRleDogMjtcbiAgICAgICAgbGVmdDogMDtcbiAgICAgICAgdG9wOiAwO1xuICAgICAgICBib3R0b206IDA7XG4gICAgICAgIHJpZ2h0OiAwO1xuXG4gICAgICAgIGltZyB7XG4gICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgICAgICBib3R0b206IDMwcHg7XG4gICAgICAgICAgICBsZWZ0OiA1MCU7XG4gICAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKVxuICAgICAgICB9XG5cbiAgICAgICAgLy9iYWNrZ3JvdW5kLWNvbG9yOiAjMjkyRjNGO1xuICAgIH1cblxuICAgIC5oaWRlIHtcbiAgICAgICAgdHJhbnNmb3JtOiBzY2FsZSgxLCAwKTtcbiAgICAgICAgdHJhbnNpdGlvbjogLjhzO1xuICAgICAgICB0cmFuc2Zvcm0tb3JpZ2luOiB0b3A7XG4gICAgfVxuXG4gICAgLnNob3cge1xuICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEsIDEpO1xuICAgICAgICB0cmFuc2l0aW9uOiAuNXM7XG4gICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IHRvcDtcbiAgICB9XG5cbiAgICAubWVzc2FnZS1ib3gtY29udGVudCB7XG4gICAgICAgIHRvcDogNTAlO1xuICAgICAgICBsZWZ0OiA1MCU7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgICAgLW1vei10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgICAgLW1zLXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgbWF4LXdpZHRoOiAxMjAwcHg7XG5cbiAgICAgICAgcCB7XG4gICAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgICAgICBmb250LXNpemU6IDQ1cHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYW5nbGUtdG9wIHtcbiAgICAgICAgICAgIG1hcmdpbi10b3A6IDMwcHg7XG5cbiAgICAgICAgICAgIGkge1xuICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJweDtcbiAgICAgICAgICAgICAgICBjb2xvcjogIzEyYTVmNDtcbiAgICAgICAgICAgIH1cbiAgICAgICAgfVxuXG4gICAgICAgIC5iYWNrLWJ1dHRvbi10ZXh0IHtcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTVweDtcbiAgICAgICAgICAgIG1hcmdpbi10b3A6IDEwcHg7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAuaG9tZS1zZWN0aW9uIHtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgICAvL2JvcmRlcjogMXB4IHNvbGlkIHdoaXRlO1xuICAgICAgICB0b3A6IDUwJTtcbiAgICAgICAgbGVmdDogNTAlO1xuICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICAtbW96LXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICAtbXMtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgbWF4LXdpZHRoOiA4MDBweDtcbiAgICAgICAgaGVpZ2h0OiA2NTBweDtcbiAgICAgICAgYmFja2dyb3VuZDogdXJsKC4uLy4uLy4uL2Fzc2V0cy9pbWFnZXMvcGhvbmUuc3ZnKSBuby1yZXBlYXQgbGVmdDtcbiAgICAgICAgYmFja2dyb3VuZC1zaXplOiA5MDBweDtcbiAgICAgICAgYmFja2dyb3VuZC1wb3NpdGlvbjogMCAtMjAlO1xuICAgICAgICBwYWRkaW5nLWxlZnQ6IDMzNXB4O1xuICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IC0yNDBweDtcblxuICAgICAgICAuc2VjdGlvbi10aXRsZSB7XG4gICAgICAgICAgICBmb250LXNpemU6IDgwcHg7XG4gICAgICAgICAgICBtYXJnaW46IDEzMHB4IDAgMDtcbiAgICAgICAgICAgIGNvbG9yOiAkd2hpdGU7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAuYW5nbGUge1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgICAgbGVmdDogMDtcbiAgICAgICAgcmlnaHQ6IDA7XG4gICAgICAgIG1hcmdpbjogMCBhdXRvO1xuICAgICAgICB3aWR0aDogMTAwcHg7XG4gICAgICAgIGZvbnQtc2l6ZTogMjBweDtcblxuICAgICAgICBpbWcge1xuICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICAgICAgaGVpZ2h0OiA1MHB4O1xuICAgICAgICAgICAgd2lkdGg6IDUwcHg7XG4gICAgICAgIH1cblxuICAgICAgICBpIHtcbiAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgfVxuICAgIH1cblxuICAgIGRpdi5hbmdsZSB7XG4gICAgICAgIC13ZWJraXQtYW5pbWF0aW9uOiBtb3ZlciAxcyBpbmZpbml0ZSBhbHRlcm5hdGU7XG4gICAgICAgIGFuaW1hdGlvbjogbW92ZXIgMXMgaW5maW5pdGUgYWx0ZXJuYXRlO1xuICAgIH1cblxuICAgIGRpdi5hbmdsZSB7XG4gICAgICAgIC13ZWJraXQtYW5pbWF0aW9uOiBtb3ZlciAxcyBpbmZpbml0ZSBhbHRlcm5hdGU7XG4gICAgICAgIGFuaW1hdGlvbjogbW92ZXIgMXMgaW5maW5pdGUgYWx0ZXJuYXRlO1xuICAgIH1cblxuICAgIEAtd2Via2l0LWtleWZyYW1lcyBtb3ZlciB7XG4gICAgICAgIDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwKTtcbiAgICAgICAgfVxuICAgICAgICAxMDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMTBweCk7XG4gICAgICAgIH1cbiAgICB9XG4gICAgQGtleWZyYW1lcyBtb3ZlciB7XG4gICAgICAgIDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwKTtcbiAgICAgICAgfVxuICAgICAgICAxMDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMTBweCk7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAucGxheS1pY29uLWNvbnRhaW5lciB7XG4gICAgICAgIGRpc3BsYXk6IG5vbmU7XG4gICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgICAgdG9wOiA1MCU7XG4gICAgICAgIGxlZnQ6IDUwJTtcbiAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgaGVpZ2h0OiA3N3B4O1xuICAgICAgICB3aWR0aDogNzdweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNTAlO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIC41KTtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgfVxufVxuXG4uaWNvbi1nb29nbGVwbGF5OmJlZm9yZSB7XG4gICAgY29sb3I6IHdoaXRlO1xufVxuXG5AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDgwMHB4KSB7XG4gICAgLmhvbWUtY29udGFpbmVyIHtcblxuICAgICAgICAuYW5nbGUge1xuICAgICAgICAgICAgZGlzcGxheTogbm9uZTtcbiAgICAgICAgfVxuXG4gICAgICAgIC5ob21lLXNlY3Rpb24tbWVzc2FnZS1ib3gge1xuICAgICAgICAgICAgZGlzcGxheTogbm9uZTtcbiAgICAgICAgfVxuXG4gICAgICAgIC5tZXNzYWdlLWJveC1tb2RhbCB7XG4gICAgICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgfVxuXG4gICAgICAgIC5wbGF5LWljb24tY29udGFpbmVyIHtcbiAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIH1cblxuICAgICAgICAuaG9tZS1zZWN0aW9uIHtcbiAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogMTAwMHB4O1xuICAgICAgICAgICAgYmFja2dyb3VuZC1wb3NpdGlvbjogNDMlIDUlO1xuICAgICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIH1cbiAgICB9XG59XG4iLCIkYmxhY2s6ICMxYjFiMWI7XG4kd2hpdGU6ICNmZmZmZmY7XG4kZ29sZDogI0Y5RTNBNztcblxuJGJsdWU6ICM0ODg2ZmY7XG4kYmx1ZS1kYXJrOiAjMzA3M2Y2O1xuJGJsdWUtc2hhZG93OiByZ2JhKDcyLCAxMzQsIDI1NSwgMC40NSk7XG4kYmx1ZS1saWdodDogIzEyYTVmNDtcbiRibHVlLWRlZXAtZGFyazogIzE4MTcyNztcblxuJGdyZXk6ICNiY2MwZDE7XG4kZ3JleS1saWdodDogI2U5ZWNmNjtcbiRncmV5LW1pZGRsZS1saWdodDogI2Q4ZDhkODtcbiRncmV5LWRhcms6ICM4Yzk2YTk7XG4kZ3JleS1zaGFkb3c6IHJnYmEoNDksIDU2LCA3OCwgMC4xOCk7XG5cbiRyZWQ6ICNkNTAwMDA7XG4kcGluazogI2VhNDE4MztcbiRjb3JhbDogI2ZmNmM1ZjtcbiRncmVlbjogIzIwYWQyMztcbiRncmVlbi1kYXJrOiAjMTA3ZjEyO1xuJGdyZWVuLWxpZ2h0OiAjYjljMjM3O1xuJG9yYW5nZS1saWdodDogI0Y5RTNBNztcbiRvcmFuZ2U6ICNmYmFkNTA7XG4kcHVycGxlOiAjNmI0ZmViO1xuJGJsdWUtZ3JlZW46ICMwMGEyODk7XG4kZGFyay1ibHVlOiAjMjkyRjNGO1xuXG5cbiJdfQ== */";
+      module.exports = ".home-container .no-scale {\n  transform: scale(1, 0);\n  transition: 0.8s;\n  transform-origin: bottom;\n}\n.home-container .scale {\n  transform: scale(1, 1);\n  transition: 0.5s;\n  transform-origin: bottom;\n}\n.home-container .message-box-modal {\n  display: none;\n  position: absolute;\n  background-image: url('main-background.svg');\n  z-index: 2;\n  left: 0;\n  top: 0;\n  bottom: 0;\n  right: 0;\n}\n.home-container .message-box-modal img {\n  position: absolute;\n  bottom: 30px;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n.home-container .hide {\n  transform: scale(1, 0);\n  transition: 0.8s;\n  transform-origin: top;\n}\n.home-container .show {\n  transform: scale(1, 1);\n  transition: 0.5s;\n  transform-origin: top;\n}\n.home-container .message-box-content {\n  top: 50%;\n  left: 50%;\n  text-align: center;\n  transform: translate(-50%, -50%);\n  position: absolute;\n  width: 100%;\n  max-width: 1200px;\n}\n.home-container .message-box-content p {\n  color: white;\n  font-size: 45px;\n}\n.home-container .message-box-content .angle-top {\n  margin-top: 30px;\n}\n.home-container .message-box-content .angle-top i {\n  font-size: 12px;\n  color: #12a5f4;\n}\n.home-container .message-box-content .back-button-text {\n  font-size: 15px;\n  margin-top: 10px;\n}\n.home-container .home-section {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: 100%;\n  max-width: 1200px;\n  height: 800px;\n  background: url('mockupiphone.svg') no-repeat left;\n  background-size: 800px;\n  background-position: -10% 25%;\n}\n.home-container .home-section .section-title {\n  font-size: 80px;\n  margin: 130px 0 0;\n  color: #ffffff;\n}\n.home-container .angle {\n  position: absolute;\n  bottom: 20px;\n  left: 0;\n  right: 0;\n  margin: 0 auto;\n  width: 100px;\n  height: 100px;\n  font-size: 20px;\n}\n.home-container .angle img {\n  cursor: pointer;\n  height: auto;\n  width: 50px;\n}\n.home-container .angle i {\n  cursor: pointer;\n}\n.home-container div.angle {\n  -webkit-animation: mover 1s infinite alternate;\n  animation: mover 1s infinite alternate;\n}\n.home-container div.angle {\n  -webkit-animation: mover 1s infinite alternate;\n  animation: mover 1s infinite alternate;\n}\n@-webkit-keyframes mover {\n  0% {\n    transform: translateY(0);\n  }\n  100% {\n    transform: translateY(-10px);\n  }\n}\n@keyframes mover {\n  0% {\n    transform: translateY(0);\n  }\n  100% {\n    transform: translateY(-10px);\n  }\n}\n.home-container .play-icon-container {\n  display: none;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  cursor: pointer;\n  height: 77px;\n  width: 77px;\n  border-radius: 50%;\n  background-color: rgba(255, 255, 255, 0.5);\n  justify-content: center;\n  align-items: center;\n}\n.icon-googleplay:before {\n  color: white;\n}\n@media only screen and (max-width: 800px) {\n  .home-container .angle {\n    display: none;\n  }\n  .home-container .home-section-message-box {\n    display: none;\n  }\n  .home-container .message-box-modal {\n    display: block;\n  }\n  .home-container .play-icon-container {\n    display: flex;\n  }\n  .home-container .home-section {\n    background-size: 1000px;\n    background-position: 43% 5%;\n    width: 100%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LnNjc3MiLCIuLi8uLi8uLi9hc3NldHMvc3R5bGVzL2hlbHBlcnMvX2NvbG9ycy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUdJO0VBQ0ksc0JBQUE7RUFDQSxnQkFBQTtFQUNBLHdCQUFBO0FBRlI7QUFLSTtFQUNJLHNCQUFBO0VBQ0EsZ0JBQUE7RUFDQSx3QkFBQTtBQUhSO0FBTUk7RUFDSSxhQUFBO0VBQ0Esa0JBQUE7RUFDQSw0Q0FBQTtFQUNBLFVBQUE7RUFDQSxPQUFBO0VBQ0EsTUFBQTtFQUNBLFNBQUE7RUFDQSxRQUFBO0FBSlI7QUFNUTtFQUNJLGtCQUFBO0VBQ0EsWUFBQTtFQUNBLFNBQUE7RUFDQSxnQ0FBQTtBQUpaO0FBVUk7RUFDSSxzQkFBQTtFQUNBLGdCQUFBO0VBQ0EscUJBQUE7QUFSUjtBQVdJO0VBQ0ksc0JBQUE7RUFDQSxnQkFBQTtFQUNBLHFCQUFBO0FBVFI7QUFZSTtFQUNJLFFBQUE7RUFDQSxTQUFBO0VBQ0Esa0JBQUE7RUFJQSxnQ0FBQTtFQUNBLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLGlCQUFBO0FBVlI7QUFZUTtFQUNJLFlBQUE7RUFDQSxlQUFBO0FBVlo7QUFhUTtFQUNJLGdCQUFBO0FBWFo7QUFhWTtFQUNJLGVBQUE7RUFDQSxjQUFBO0FBWGhCO0FBZVE7RUFDSSxlQUFBO0VBQ0EsZ0JBQUE7QUFiWjtBQWlCSTtFQUNJLGtCQUFBO0VBRUEsUUFBQTtFQUNBLFNBQUE7RUFJQSxnQ0FBQTtFQUNBLFdBQUE7RUFDQSxpQkFBQTtFQUNBLGFBQUE7RUFDQSxrREFBQTtFQUNBLHNCQUFBO0VBQ0EsNkJBQUE7QUFoQlI7QUFrQlE7RUFDSSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxjQ2pHSjtBRGlGUjtBQW9CSTtFQUNJLGtCQUFBO0VBQ0EsWUFBQTtFQUNBLE9BQUE7RUFDQSxRQUFBO0VBQ0EsY0FBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0VBQ0EsZUFBQTtBQWxCUjtBQW9CUTtFQUNJLGVBQUE7RUFDQSxZQUFBO0VBQ0EsV0FBQTtBQWxCWjtBQXFCUTtFQUNJLGVBQUE7QUFuQlo7QUF1Qkk7RUFDSSw4Q0FBQTtFQUNBLHNDQUFBO0FBckJSO0FBd0JJO0VBQ0ksOENBQUE7RUFDQSxzQ0FBQTtBQXRCUjtBQXlCSTtFQUNJO0lBQ0ksd0JBQUE7RUF2QlY7RUF5Qk07SUFDSSw0QkFBQTtFQXZCVjtBQUNGO0FBeUJJO0VBQ0k7SUFDSSx3QkFBQTtFQXZCVjtFQXlCTTtJQUNJLDRCQUFBO0VBdkJWO0FBQ0Y7QUEwQkk7RUFDSSxhQUFBO0VBQ0Esa0JBQUE7RUFDQSxRQUFBO0VBQ0EsU0FBQTtFQUNBLGdDQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0VBQ0Esa0JBQUE7RUFDQSwwQ0FBQTtFQUNBLHVCQUFBO0VBQ0EsbUJBQUE7QUF4QlI7QUE0QkE7RUFDSSxZQUFBO0FBekJKO0FBNEJBO0VBR1E7SUFDSSxhQUFBO0VBM0JWO0VBOEJNO0lBQ0ksYUFBQTtFQTVCVjtFQStCTTtJQUNJLGNBQUE7RUE3QlY7RUFnQ007SUFDSSxhQUFBO0VBOUJWO0VBaUNNO0lBQ0ksdUJBQUE7SUFDQSwyQkFBQTtJQUNBLFdBQUE7RUEvQlY7QUFDRiIsImZpbGUiOiJob21lLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCBcIi4uLy4uLy4uL2Fzc2V0cy9zdHlsZXMvaGVscGVycy9jb2xvcnNcIjtcblxuLmhvbWUtY29udGFpbmVyIHtcbiAgICAubm8tc2NhbGUge1xuICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEsIDApO1xuICAgICAgICB0cmFuc2l0aW9uOiAuOHM7XG4gICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IGJvdHRvbTtcbiAgICB9XG5cbiAgICAuc2NhbGUge1xuICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEsIDEpO1xuICAgICAgICB0cmFuc2l0aW9uOiAuNXM7XG4gICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IGJvdHRvbTtcbiAgICB9XG5cbiAgICAubWVzc2FnZS1ib3gtbW9kYWwge1xuICAgICAgICBkaXNwbGF5OiBub25lO1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi4uLy4uLy4uL2Fzc2V0cy9pbWFnZXMvbWFpbi1iYWNrZ3JvdW5kLnN2Z1wiKTtcbiAgICAgICAgei1pbmRleDogMjtcbiAgICAgICAgbGVmdDogMDtcbiAgICAgICAgdG9wOiAwO1xuICAgICAgICBib3R0b206IDA7XG4gICAgICAgIHJpZ2h0OiAwO1xuXG4gICAgICAgIGltZyB7XG4gICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgICAgICBib3R0b206IDMwcHg7XG4gICAgICAgICAgICBsZWZ0OiA1MCU7XG4gICAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKVxuICAgICAgICB9XG5cbiAgICAgICAgLy9iYWNrZ3JvdW5kLWNvbG9yOiAjMjkyRjNGO1xuICAgIH1cblxuICAgIC5oaWRlIHtcbiAgICAgICAgdHJhbnNmb3JtOiBzY2FsZSgxLCAwKTtcbiAgICAgICAgdHJhbnNpdGlvbjogLjhzO1xuICAgICAgICB0cmFuc2Zvcm0tb3JpZ2luOiB0b3A7XG4gICAgfVxuXG4gICAgLnNob3cge1xuICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEsIDEpO1xuICAgICAgICB0cmFuc2l0aW9uOiAuNXM7XG4gICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IHRvcDtcbiAgICB9XG5cbiAgICAubWVzc2FnZS1ib3gtY29udGVudCB7XG4gICAgICAgIHRvcDogNTAlO1xuICAgICAgICBsZWZ0OiA1MCU7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgICAgLW1vei10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgICAgLW1zLXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgbWF4LXdpZHRoOiAxMjAwcHg7XG5cbiAgICAgICAgcCB7XG4gICAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgICAgICBmb250LXNpemU6IDQ1cHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYW5nbGUtdG9wIHtcbiAgICAgICAgICAgIG1hcmdpbi10b3A6IDMwcHg7XG5cbiAgICAgICAgICAgIGkge1xuICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJweDtcbiAgICAgICAgICAgICAgICBjb2xvcjogIzEyYTVmNDtcbiAgICAgICAgICAgIH1cbiAgICAgICAgfVxuXG4gICAgICAgIC5iYWNrLWJ1dHRvbi10ZXh0IHtcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTVweDtcbiAgICAgICAgICAgIG1hcmdpbi10b3A6IDEwcHg7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAuaG9tZS1zZWN0aW9uIHtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgICAvL2JvcmRlcjogMXB4IHNvbGlkIHdoaXRlO1xuICAgICAgICB0b3A6IDUwJTtcbiAgICAgICAgbGVmdDogNTAlO1xuICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICAtbW96LXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICAtbXMtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgbWF4LXdpZHRoOiAxMjAwcHg7XG4gICAgICAgIGhlaWdodDogODAwcHg7XG4gICAgICAgIGJhY2tncm91bmQ6IHVybCguLi8uLi8uLi9hc3NldHMvaW1hZ2VzL21vY2t1cGlwaG9uZS5zdmcpIG5vLXJlcGVhdCBsZWZ0O1xuICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDgwMHB4O1xuICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAtMTAlIDI1JTtcblxuICAgICAgICAuc2VjdGlvbi10aXRsZSB7XG4gICAgICAgICAgICBmb250LXNpemU6IDgwcHg7XG4gICAgICAgICAgICBtYXJnaW46IDEzMHB4IDAgMDtcbiAgICAgICAgICAgIGNvbG9yOiAkd2hpdGU7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAuYW5nbGUge1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgICAgbGVmdDogMDtcbiAgICAgICAgcmlnaHQ6IDA7XG4gICAgICAgIG1hcmdpbjogMCBhdXRvO1xuICAgICAgICB3aWR0aDogMTAwcHg7XG4gICAgICAgIGhlaWdodDogMTAwcHg7XG4gICAgICAgIGZvbnQtc2l6ZTogMjBweDtcblxuICAgICAgICBpbWcge1xuICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgICAgICAgd2lkdGg6IDUwcHg7XG4gICAgICAgIH1cblxuICAgICAgICBpIHtcbiAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgfVxuICAgIH1cblxuICAgIGRpdi5hbmdsZSB7XG4gICAgICAgIC13ZWJraXQtYW5pbWF0aW9uOiBtb3ZlciAxcyBpbmZpbml0ZSBhbHRlcm5hdGU7XG4gICAgICAgIGFuaW1hdGlvbjogbW92ZXIgMXMgaW5maW5pdGUgYWx0ZXJuYXRlO1xuICAgIH1cblxuICAgIGRpdi5hbmdsZSB7XG4gICAgICAgIC13ZWJraXQtYW5pbWF0aW9uOiBtb3ZlciAxcyBpbmZpbml0ZSBhbHRlcm5hdGU7XG4gICAgICAgIGFuaW1hdGlvbjogbW92ZXIgMXMgaW5maW5pdGUgYWx0ZXJuYXRlO1xuICAgIH1cblxuICAgIEAtd2Via2l0LWtleWZyYW1lcyBtb3ZlciB7XG4gICAgICAgIDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwKTtcbiAgICAgICAgfVxuICAgICAgICAxMDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMTBweCk7XG4gICAgICAgIH1cbiAgICB9XG4gICAgQGtleWZyYW1lcyBtb3ZlciB7XG4gICAgICAgIDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwKTtcbiAgICAgICAgfVxuICAgICAgICAxMDAlIHtcbiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMTBweCk7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAucGxheS1pY29uLWNvbnRhaW5lciB7XG4gICAgICAgIGRpc3BsYXk6IG5vbmU7XG4gICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgICAgdG9wOiA1MCU7XG4gICAgICAgIGxlZnQ6IDUwJTtcbiAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgaGVpZ2h0OiA3N3B4O1xuICAgICAgICB3aWR0aDogNzdweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNTAlO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIC41KTtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgfVxufVxuXG4uaWNvbi1nb29nbGVwbGF5OmJlZm9yZSB7XG4gICAgY29sb3I6IHdoaXRlO1xufVxuXG5AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDgwMHB4KSB7XG4gICAgLmhvbWUtY29udGFpbmVyIHtcblxuICAgICAgICAuYW5nbGUge1xuICAgICAgICAgICAgZGlzcGxheTogbm9uZTtcbiAgICAgICAgfVxuXG4gICAgICAgIC5ob21lLXNlY3Rpb24tbWVzc2FnZS1ib3gge1xuICAgICAgICAgICAgZGlzcGxheTogbm9uZTtcbiAgICAgICAgfVxuXG4gICAgICAgIC5tZXNzYWdlLWJveC1tb2RhbCB7XG4gICAgICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgfVxuXG4gICAgICAgIC5wbGF5LWljb24tY29udGFpbmVyIHtcbiAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIH1cblxuICAgICAgICAuaG9tZS1zZWN0aW9uIHtcbiAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogMTAwMHB4O1xuICAgICAgICAgICAgYmFja2dyb3VuZC1wb3NpdGlvbjogNDMlIDUlO1xuICAgICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIH1cbiAgICB9XG59XG4iLCIkYmxhY2s6ICMxYjFiMWI7XG4kd2hpdGU6ICNmZmZmZmY7XG4kZ29sZDogI0Y5RTNBNztcblxuJGJsdWU6ICM0ODg2ZmY7XG4kYmx1ZS1kYXJrOiAjMzA3M2Y2O1xuJGJsdWUtc2hhZG93OiByZ2JhKDcyLCAxMzQsIDI1NSwgMC40NSk7XG4kYmx1ZS1saWdodDogIzEyYTVmNDtcbiRibHVlLWRlZXAtZGFyazogIzE4MTcyNztcblxuJGdyZXk6ICNiY2MwZDE7XG4kZ3JleS1saWdodDogI2U5ZWNmNjtcbiRncmV5LW1pZGRsZS1saWdodDogI2Q4ZDhkODtcbiRncmV5LWRhcms6ICM4Yzk2YTk7XG4kZ3JleS1zaGFkb3c6IHJnYmEoNDksIDU2LCA3OCwgMC4xOCk7XG5cbiRyZWQ6ICNkNTAwMDA7XG4kcGluazogI2VhNDE4MztcbiRjb3JhbDogI2ZmNmM1ZjtcbiRncmVlbjogIzIwYWQyMztcbiRncmVlbi1kYXJrOiAjMTA3ZjEyO1xuJGdyZWVuLWxpZ2h0OiAjYjljMjM3O1xuJG9yYW5nZS1saWdodDogI0Y5RTNBNztcbiRvcmFuZ2U6ICNmYmFkNTA7XG4kcHVycGxlOiAjNmI0ZmViO1xuJGJsdWUtZ3JlZW46ICMwMGEyODk7XG4kZGFyay1ibHVlOiAjMjkyRjNGO1xuXG5cbiJdfQ== */";
       /***/
     },
 
@@ -3361,7 +3487,7 @@
 
     /***/
     60282: function _(module) {
-      module.exports = ".message-box-container {\n  margin: auto;\n  max-width: 350px;\n  margin-left: 90px;\n  width: 100%;\n  min-width: 250px;\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  transition: all 0.5s;\n  transform: translate(-50%, -90px);\n}\n.message-box-container .visible {\n  opacity: 1 !important;\n}\n.message-box-container .message-item {\n  position: relative;\n  padding: 5px 2.5px;\n  border-radius: 25px;\n  font-family: Verdana sans-serif;\n  letter-spacing: 0.02em;\n  font-size: 18px;\n  line-height: 1.2;\n  font-weight: normal;\n  opacity: 0;\n  transform: translateY(20px) scale(0.9);\n  transition: transform 150ms, opacity 150ms;\n}\n@media only screen and (max-width: 800px) {\n  .message-box-container {\n    margin-left: 0;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1lc3NhZ2UtYm94LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUdBO0VBQ0ksWUFBQTtFQUNBLGdCQUFBO0VBQ0EsaUJBQUE7RUFDQSxXQUFBO0VBQ0EsZ0JBQUE7RUFDQSxlQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxvQkFBQTtFQUNBLGlDQUFBO0FBRko7QUFJSTtFQUNJLHFCQUFBO0FBRlI7QUFLSTtFQUNJLGtCQUFBO0VBQ0Esa0JBQUE7RUFDQSxtQkFBQTtFQUNBLCtCQUFBO0VBQ0Esc0JBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLFVBQUE7RUFJQSxzQ0FBQTtFQUNBLDBDQUFBO0FBSFI7QUFPQTtFQUNJO0lBQ0ksY0FBQTtFQUpOO0FBQ0YiLCJmaWxlIjoibWVzc2FnZS1ib3guY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAaW1wb3J0IFwiLi4vLi4vLi4vYXNzZXRzL3N0eWxlcy9oZWxwZXJzL2NvbG9yc1wiO1xuQGltcG9ydCBcIi4uLy4uLy4uL2Fzc2V0cy9zdHlsZXMvaGVscGVycy9taXhpbnNcIjtcblxuLm1lc3NhZ2UtYm94LWNvbnRhaW5lciB7XG4gICAgbWFyZ2luOiBhdXRvO1xuICAgIG1heC13aWR0aDogMzUwcHg7XG4gICAgbWFyZ2luLWxlZnQ6IDkwcHg7XG4gICAgd2lkdGg6IDEwMCU7XG4gICAgbWluLXdpZHRoOiAyNTBweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zaXRpb246IGFsbCAwLjVzO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC05MHB4KTtcblxuICAgIC52aXNpYmxlIHtcbiAgICAgICAgb3BhY2l0eTogMSAhaW1wb3J0YW50O1xuICAgIH1cblxuICAgIC5tZXNzYWdlLWl0ZW0ge1xuICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgICAgIHBhZGRpbmc6IDVweCAyLjVweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogMjVweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IFZlcmRhbmEgc2Fucy1zZXJpZjtcbiAgICAgICAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbTtcbiAgICAgICAgZm9udC1zaXplOiAxOHB4O1xuICAgICAgICBsaW5lLWhlaWdodDogMS4yO1xuICAgICAgICBmb250LXdlaWdodDogbm9ybWFsO1xuICAgICAgICBvcGFjaXR5OiAwO1xuICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlWSgyMHB4KSBzY2FsZSguOSk7XG4gICAgICAgIC1tb3otdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDIwcHgpIHNjYWxlKC45KTtcbiAgICAgICAgLW1zLXRyYW5zZm9ybTogdHJhbnNsYXRlWSgyMHB4KSBzY2FsZSguOSk7XG4gICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgyMHB4KSBzY2FsZSguOSk7XG4gICAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAxNTBtcyAsIG9wYWNpdHkgMTUwbXM7XG4gICAgfVxufVxuXG5AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDgwMHB4KSB7XG4gICAgLm1lc3NhZ2UtYm94LWNvbnRhaW5lciB7XG4gICAgICAgIG1hcmdpbi1sZWZ0OiAwO1xuICAgIH1cbn1cbiJdfQ== */";
+      module.exports = ".message-box-container {\n  margin: auto;\n  max-width: 350px;\n  margin-left: 90px;\n  width: 100%;\n  min-width: 250px;\n  position: fixed;\n  top: 40%;\n  left: 60%;\n  transition: all 0.5s;\n  transform: translate(-50%, -90px);\n}\n.message-box-container .visible {\n  opacity: 1 !important;\n}\n.message-box-container .message-item {\n  position: relative;\n  padding: 5px 2.5px;\n  border-radius: 25px;\n  font-family: Verdana sans-serif;\n  letter-spacing: 0.02em;\n  font-size: 20px;\n  line-height: 1.2;\n  font-weight: normal;\n  opacity: 0;\n  transform: translateY(20px) scale(0.9);\n  transition: transform 150ms, opacity 150ms;\n}\n@media only screen and (max-width: 800px) {\n  .message-box-container {\n    margin-left: 0;\n    top: 50%;\n    left: 50%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1lc3NhZ2UtYm94LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUdBO0VBQ0ksWUFBQTtFQUNBLGdCQUFBO0VBQ0EsaUJBQUE7RUFDQSxXQUFBO0VBQ0EsZ0JBQUE7RUFDQSxlQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxvQkFBQTtFQUNBLGlDQUFBO0FBRko7QUFJSTtFQUNJLHFCQUFBO0FBRlI7QUFLSTtFQUNJLGtCQUFBO0VBQ0Esa0JBQUE7RUFDQSxtQkFBQTtFQUNBLCtCQUFBO0VBQ0Esc0JBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLFVBQUE7RUFJQSxzQ0FBQTtFQUNBLDBDQUFBO0FBSFI7QUFPQTtFQUNJO0lBQ0ksY0FBQTtJQUNBLFFBQUE7SUFDQSxTQUFBO0VBSk47QUFDRiIsImZpbGUiOiJtZXNzYWdlLWJveC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgXCIuLi8uLi8uLi9hc3NldHMvc3R5bGVzL2hlbHBlcnMvY29sb3JzXCI7XG5AaW1wb3J0IFwiLi4vLi4vLi4vYXNzZXRzL3N0eWxlcy9oZWxwZXJzL21peGluc1wiO1xuXG4ubWVzc2FnZS1ib3gtY29udGFpbmVyIHtcbiAgICBtYXJnaW46IGF1dG87XG4gICAgbWF4LXdpZHRoOiAzNTBweDtcbiAgICBtYXJnaW4tbGVmdDogOTBweDtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBtaW4td2lkdGg6IDI1MHB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDQwJTtcbiAgICBsZWZ0OiA2MCU7XG4gICAgdHJhbnNpdGlvbjogYWxsIDAuNXM7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTkwcHgpO1xuXG4gICAgLnZpc2libGUge1xuICAgICAgICBvcGFjaXR5OiAxICFpbXBvcnRhbnQ7XG4gICAgfVxuXG4gICAgLm1lc3NhZ2UtaXRlbSB7XG4gICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgICAgcGFkZGluZzogNXB4IDIuNXB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiAyNXB4O1xuICAgICAgICBmb250LWZhbWlseTogVmVyZGFuYSBzYW5zLXNlcmlmO1xuICAgICAgICBsZXR0ZXItc3BhY2luZzogMC4wMmVtO1xuICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAxLjI7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7XG4gICAgICAgIG9wYWNpdHk6IDA7XG4gICAgICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDIwcHgpIHNjYWxlKC45KTtcbiAgICAgICAgLW1vei10cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMjBweCkgc2NhbGUoLjkpO1xuICAgICAgICAtbXMtdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDIwcHgpIHNjYWxlKC45KTtcbiAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDIwcHgpIHNjYWxlKC45KTtcbiAgICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDE1MG1zICwgb3BhY2l0eSAxNTBtcztcbiAgICB9XG59XG5cbkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogODAwcHgpIHtcbiAgICAubWVzc2FnZS1ib3gtY29udGFpbmVyIHtcbiAgICAgICAgbWFyZ2luLWxlZnQ6IDA7XG4gICAgICAgIHRvcDogNTAlO1xuICAgICAgICBsZWZ0OiA1MCU7XG4gICAgfVxufVxuIl19 */";
       /***/
     },
 
